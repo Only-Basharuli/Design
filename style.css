@@ -1,0 +1,28 @@
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: #2776c522;
+    margin-left: 5px;
+}
+
+#logo{
+    width: 100px;
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+h2{
+    margin-left: 40px;
+}
+
+p{
+    margin-left: 40px;
+    line-height: 25px;
+}
